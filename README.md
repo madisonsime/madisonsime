@@ -1,4 +1,4 @@
-Hi 👋 My name is Maddie Sime
+Hi 👋 My name is Maddie
 ============================
 
 I'm a Fullstack Software Engineer
