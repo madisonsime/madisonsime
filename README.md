@@ -4,7 +4,7 @@ Hi 👋 My name is Maddie
 I'm a Fullstack Software Engineer
 ---------------------------------
 
-I picked up programming as a hobby nearly two years ago. I loved it so much that I decided to pursue it full-time and obtained a certificate in Advanced Software Engineering from Hack Reactor. I'm looking for a new role in any part of the stack with a company that has awesome culture. Let's chat!
+I picked up coding as a hobby nearly two years ago. I loved it so much that I decided to pursue it full-time and obtained a certificate in Advanced Software Engineering from Hack Reactor. I'm looking for a new role in any part of the stack. Let's chat!
 
 * 🌍  I'm based in Davis, CA
 * ✉️  You can contact me at [madisonfaithsime@gmail.com](mailto:madisonfaithsime@gmail.com)
