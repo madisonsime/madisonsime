@@ -4,7 +4,7 @@ Hi 👋 My name is Maddie
 I'm a Full Stack Software Engineer
 ---------------------------------
 
-I picked up coding as a hobby two years ago. I loved it so much that I decided to pursue it full-time and obtained a certificate in Advanced Software Engineering from Hack Reactor. I'm currently working on Blush, a mobile dating platform, using React Native, TypeScript and Redux to build out the key components of the sign-up flow. I'm looking for a new, full-time role in any part of the stack. Let's chat!
+I picked up coding as a hobby two years ago. I loved it so much that I decided to pursue it full-time and obtained a certificate in Advanced Software Engineering from Hack Reactor. I'm currently working at DLL as an Agile Engineer. I'm looking for a new, full-time role as a Front End Developer or Full Stack Developer. Let's chat!
 
 * 🌍  I'm based in Davis, CA
 * ✉️  You can contact me at [madisonfaithsime@gmail.com](mailto:madisonfaithsime@gmail.com)
